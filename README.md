@@ -31,6 +31,7 @@ Add plugin:
 
 ```sh
 cd vite-ts-plugin-gleam-demo
+npm install --save-dev ts-plugin-gleam
 npm install --save-dev vite-plugin-gleam
 ```
 
